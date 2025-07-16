@@ -1,3 +1,5 @@
+--only-binary=numpy,pandas --prefer-binary
+
 # Build essentials
 setuptools>=65.0.0
 wheel>=0.38.0
